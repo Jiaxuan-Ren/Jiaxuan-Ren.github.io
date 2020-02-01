@@ -19,7 +19,7 @@
       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
-            "{{ teaser }}"
+            "{{ teaser }}"s
           {% else %}
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
