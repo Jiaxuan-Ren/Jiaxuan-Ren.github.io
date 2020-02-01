@@ -12,6 +12,8 @@ redirect_from:
 
 ---
 
+### Download PDF version [here](/files/resume.pdf)
+
 ## Education
 
 
@@ -30,25 +32,45 @@ redirect_from:
 | Fall 2019  | DSC 40A & 40B | Theoretical Foundations of Data Science |
 | Spring 2019 | DSC40B | Theoretical Foundations of Data Science | -->
 
-* [Undergraduate Instructional Assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors), UC San Diego, Mar 2019 to now
-
+* [Undergraduate Instructional Assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors), [UC San Diego Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), Mar 2019 to now
   * Tutored / tutoring for: DSC 40A & 40B, Theoretical Foundations of Data Science, and DSC 10, [Principles of Data Science](https://www.dsc10.com)
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Hold Office Hours for students to solve questions on lectures, quizzes, homework
+  * Design and program tests for autograder on Gradescope to automatically grade programming assignments
+  * Design labs and homework assignments for students
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Software Engineer Intern, [People's Daily Online](http://en.people.cn), July 2019 to Sept 2019
+  * Created multiple animations for an [app](https://apps.apple.com/cn/app/%E4%BA%BA%E6%B0%91%E6%96%87%E6%97%85-%E5%92%8C%E5%AD%A9%E5%AD%90%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%BF/id1465860914?l=en) using React Native framework, including the intro page, which serves as guidance for first-time users
+  * Built display product and cashier page, which is expected to handle 20k transactions per year
+  * Developed the [company website](http://bdtrip.com.cn) using Next.js framework that help introduce the company's products to customers
+
+* Government Affairs Intern, [Meituan-Dianping](https://about.meituan.com/en), June 2019 to July 2019
+  * Implemented a voice recording to Word document program using [iFlytek](https://global.xfyun.cn)'s recording to text API
+  * Composed a project proposal to Beijing government for ~$700k funding
+  * Perform business analysis on the prospects of smart customer service of competitors
+
+* IT Intern, [Tenbagger Capital Management](http://www.tbamc.com), June 2018 to Aug 2018
+  * Developed a Visual Basic Application in Excel to automatically generate daily and monthly portfolio report. Simplified the process from an hour to just minutes and reduced more than 90% of errors
+  * Implemented a Java project which simulates the percentages of different assets in an investment portfolio
+  * Maintained Database (MySQL) for quantitative trading, including writing interfaces in MATLAB
+
 ## Skills
-<!-- ====== -->
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming Languages
+  * Java
+  * Python
+  * C & C++
+  * JavaScript
+  * HTML & CSS
+* Famework
+  * React Native
+* Packages
+  * NumPy
+  * Pandas
+  * Sklearn
+* Tools
+  * Unix
+  * Git
+* Agile Software Development
 
 <!-- Publications
 ======
