@@ -26,12 +26,6 @@ redirect_from:
 
 ## Work experience
 
-<!-- | Quarter | Course Code | Course Description |
-| -- |---| ---|
-| Winter 2020  | DSC10 | [Principles of Data Science](https://www.dsc10.com) |
-| Fall 2019  | DSC 40A & 40B | Theoretical Foundations of Data Science |
-| Spring 2019 | DSC40B | Theoretical Foundations of Data Science | -->
-
 * [Undergraduate Instructional Assistant](https://cse.ucsd.edu/undergraduate/undergraduate-tutors), [UC San Diego Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu), Mar 2019 to now
   * Tutored / tutoring for: DSC 40A & 40B, Theoretical Foundations of Data Science, and DSC 10, [Principles of Data Science](https://www.dsc10.com)
   * Hold Office Hours for students to solve questions on lectures, quizzes, homework
@@ -53,6 +47,17 @@ redirect_from:
   * Implemented a Java project which simulates the percentages of different assets in an investment portfolio
   * Maintained Database (MySQL) for quantitative trading, including writing interfaces in MATLAB
 
+## Projects
+
+* [SSH - Student and Student Housing](https://jiaxuan-ren.github.io/SSH/)
+  * Built an app for UCSD students to find housing and roommates. Our app was selected as best in section
+  * Developed multiple pages, including housing details page, roommate details page, etc
+  * Languages & Frameworks used: JavaScript, React Native, Firebase
+* [Trump's tweet and the stock market](https://jiaxuan-ren.github.io/Trump-tweet-stock-market/)
+  * Analyze the short-term impact of Trump's tweets on the stock market using dataset from NYSE Trade and Quote
+  * Build two models, linear regression and LSTM (Long Short Term Memory)
+  * Beat popularity predictor by more than 2%, which is a noticable difference for a chaotic system like the stock market
+
 ## Skills
 
 * Programming Languages
@@ -71,25 +76,3 @@ redirect_from:
   * Unix
   * Git
 * Agile Software Development
-
-<!-- Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-## Projects
-<!-- ====== -->
-  <ul>{% for post in site.project %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
