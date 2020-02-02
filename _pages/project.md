@@ -18,3 +18,4 @@ redirect_from:
   * Analyze the short-term impact of Trump's tweets on the stock market using dataset from NYSE Trade and Quote
   * Build two models, linear regression and LSTM (Long Short Term Memory)
   * Beat popularity predictor by more than 2%, which is a noticable difference for a chaotic system like the stock market
+  * Read the Jupyter Notebook [here]
